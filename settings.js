@@ -38,6 +38,6 @@ ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same",  // inbox | same
 WELCOME: process.env.WELCOME || "true",
 GOODBYE: process.env.GOODBYE || "true",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
-INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
+INBOX_BLOCK: process.env.INBOX_BLOCK || "true",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
