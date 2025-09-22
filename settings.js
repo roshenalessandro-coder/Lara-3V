@@ -31,7 +31,7 @@ ANTI_CALL: process.env.ANTI_CALL || "true",
 BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "ture",
 READ_MESSAGE: process.env.READ_MESSAGE || "true",
 READ_CMD: process.env.READ_CMD || "true",
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "ture",
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same",  // inbox | same
